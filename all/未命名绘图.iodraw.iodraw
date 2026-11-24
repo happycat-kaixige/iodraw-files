@@ -125,7 +125,7 @@
           <mxGeometry x="300" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nvuqrxALdzacAW_-ArSf-47" value="主教练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="300" y="560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
