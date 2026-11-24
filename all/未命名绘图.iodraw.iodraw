@@ -280,8 +280,14 @@
         <mxCell id="nvuqrxALdzacAW_-ArSf-83" value="获取证书时间" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="400" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nvuqrxALdzacAW_-ArSf-84" value="日期" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nvuqrxALdzacAW_-ArSf-84" value="级别" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nvuqrxALdzacAW_-ArSf-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="390" as="sourcePoint" />
+            <mxPoint x="660" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
