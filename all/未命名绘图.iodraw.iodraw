@@ -7,10 +7,10 @@
         <mxCell id="nvuqrxALdzacAW_-ArSf-0" value="球队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nvuqrxALdzacAW_-ArSf-1" value="球队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nvuqrxALdzacAW_-ArSf-1" value="名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nvuqrxALdzacAW_-ArSf-2" value="球队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nvuqrxALdzacAW_-ArSf-2" value="成立时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nvuqrxALdzacAW_-ArSf-3" value="球队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
