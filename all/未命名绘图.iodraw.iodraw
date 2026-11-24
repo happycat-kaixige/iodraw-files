@@ -253,8 +253,8 @@
         <mxCell id="nvuqrxALdzacAW_-ArSf-75" value="*" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="310" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nvuqrxALdzacAW_-ArSf-76" value="主教练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="510" width="80" height="40" as="geometry" />
+        <mxCell id="nvuqrxALdzacAW_-ArSf-76" value="主裁判" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
