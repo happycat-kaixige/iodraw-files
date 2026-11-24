@@ -190,11 +190,14 @@
         <mxCell id="nvuqrxALdzacAW_-ArSf-61" value="比赛" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nvuqrxALdzacAW_-ArSf-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nvuqrxALdzacAW_-ArSf-62" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nvuqrxALdzacAW_-ArSf-15" target="nvuqrxALdzacAW_-ArSf-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="360" as="sourcePoint" />
             <mxPoint x="500" y="380" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nvuqrxALdzacAW_-ArSf-63" value="级别" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="570" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
