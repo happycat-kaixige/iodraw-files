@@ -197,13 +197,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nvuqrxALdzacAW_-ArSf-63" value="级别" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="240" width="40" height="40" as="geometry" />
+          <mxGeometry x="414" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nvuqrxALdzacAW_-ArSf-64" value="级别" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="240" width="40" height="40" as="geometry" />
+          <mxGeometry x="454" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nvuqrxALdzacAW_-ArSf-65" value="级别" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="240" width="40" height="40" as="geometry" />
+          <mxGeometry x="500" y="240" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
