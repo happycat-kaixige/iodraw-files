@@ -25,10 +25,16 @@
         <mxCell id="nvuqrxALdzacAW_-ArSf-6" value="球队主教练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nvuqrxALdzacAW_-ArSf-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="nvuqrxALdzacAW_-ArSf-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nvuqrxALdzacAW_-ArSf-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="190" as="sourcePoint" />
             <mxPoint x="320" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nvuqrxALdzacAW_-ArSf-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="90" as="sourcePoint" />
+            <mxPoint x="330" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
